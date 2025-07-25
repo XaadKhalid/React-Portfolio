@@ -52,12 +52,13 @@
 	overflow: hidden;
 	width: 100%;
 	border-radius: 10%;
-	transform: rotate(3deg);
 }
 
 .about-image-wrapper img {
-	display: block;
+	border-radius: 50%; 
 	width: 100%;
+	height: 370px;
+	object-fit: cover;
 }
 
 .about-socials {
