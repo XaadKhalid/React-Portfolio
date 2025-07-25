@@ -12,7 +12,7 @@ const INFO = {
     },
 
     homepage: {
-        title: "Full-stack web application developer, and devops enthusiast.",
+        title: "Fullstack web application developer, and devops enthusiast.",
         description:
             "I am a backend developer with expertise in .NET framework. I have experience in building scalable, secure and reliable web applications using various frameworks and technologies. I enjoy solving complex problems and learning new skills. I am passionate about creating high-quality code that follows best practices and industry standards. I am always looking for new challenges and opportunities to grow as a developer.",
     },
